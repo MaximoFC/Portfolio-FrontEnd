@@ -1,0 +1,58 @@
+body {
+    height: 100vh;
+    width: 100%;
+    background-image: linear-gradient(to left, rgb(192, 147, 166), rgb(1, 68, 85));
+}
+
+h1 {
+    color:black;
+    font-weight: bolder;
+}
+
+h2 {
+    color:rgb(255, 255, 255);
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+h3 {
+    color:black;
+}
+
+h4 {
+    color:black
+}
+h5 {
+    color:black
+}
+
+h6 {
+    color:black
+}
+
+h1 span {
+    color:aqua
+}
+
+.margin {
+    margin-top: 10px;
+    margin-left: 15px;
+    margin-right: 15px;
+    margin-bottom: 10px;
+}
+
+section {
+    display: flex;
+    justify-content: space-between;
+}
+
+.tw {
+    color:aqua
+}
+
+.ig {
+    color:red
+}
+
+.gh {
+    color: white
+}
